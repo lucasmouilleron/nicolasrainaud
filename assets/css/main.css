@@ -38,7 +38,6 @@ header {
 header h1 {
     font-size:4em;
     font-weight: bold;
-    /*font-family: 'Droid Serif', serif, arial, sans-serif;*/
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
@@ -63,8 +62,8 @@ header nav li {
     list-style: none;
     padding:0 0px;
     border-right: 0px solid #000;
-    font-size:1.3em;
-    line-height: 1.3em;
+    font-size:1.2em;
+    line-height: 1.2em;
 }
 
 header nav li:last-child {
