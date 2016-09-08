@@ -3,4 +3,4 @@ Nicolas Rainaud
 
 Nicolas Rainaud website, built with my stupidCMS.
 
-![Screenshot](http://grabs.lucasmouilleron.com/Screen%20Shot%202016-07-16%20at%2011.21.32.png)
+![Screenshot](http://grabs.lucasmouilleron.com/Screen%20Shot%202016-09-08%20at%2013.03.32.png)
