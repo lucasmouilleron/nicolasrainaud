@@ -1,8 +1,9 @@
 ***
 ##Le désert de la poésie urbaine
-[![Le désert de la poésie urbaine]({{FILE:desert-de-la-poesie-urbaine.jpg}})](http://google.com)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita nemo beato beatior. Quae hic rei publicae vulnera inponebat, eadem ille sanabat. Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus? Haec para/doca illi, nos admirabilia dicamus. Non semper, inquam; Duo Reges: constructio interrete. Certe, nisi voluptatem tanti aestimaretis. Quae animi affectio suum cuique tribuens atque hanc, quam dico.
+###2016
+![Le désert de la poésie urbaine]({{FILE:desert-de-la-poesie-urbaine.jpg}})
+Le désert de la poésie urbaine, constitué de 76 poèmes, est le premier recueil de Nicolas Rainaud. 
 
-[Acheter sur Amazon](http://google.com)
+[Acheter](http://google.com)
 
 ---

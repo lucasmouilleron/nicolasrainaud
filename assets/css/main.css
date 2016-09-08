@@ -18,11 +18,12 @@ html,body {
 }
 
 .container {
-    max-width:800px;
+    max-width:710px;
 }
 
 a, a:hover {
-    color:#c07b02;
+    /*color:#c07b02;*/
+    color:blue;
 }
 
 /*///////////////////////////////////////////////////////////////////////*/
@@ -77,6 +78,15 @@ footer {
     padding:15px 0 10px;
 }
 
+footer ul {
+    text-align: center;
+}
+
+footer li {
+    display:inline;
+    margin:0 10px;
+}
+
 /*///////////////////////////////////////////////////////////////////////*/
 .hot {
     margin:40px 0;
@@ -103,20 +113,42 @@ h1, h2, h3 {
     font-family: 'Droid Serif', serif, arial, sans-serif;
 }
 
-/*///////////////////////////////////////////////////////////////////////*/
-.index-photo {
-    /*float:left;*/
-    max-width:120px;
-    margin:20px 0;
+ul {
+    list-style: none;
+    margin-left:0;
+    left:0;
+    padding-left:0;
 }
 
+
+p {
+    text-align: justify;
+    font-size:1em;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////*/
+
+.index img {
+    display:block;
+    max-height:190px;
+    margin:40px auto 0 auto;
+    box-shadow: 0px 10px 0px #ddd;
+}
+
+.bibliotheque {
+ 
+}
+
+
 .bibliotheque img {
-    float:left;
-    margin:0 20px 20px 5px;
-    max-width:200px;
+    display:block;
+    float:right;
+    margin:5px 0px 20px 20px;
+    max-width:160px;
     /*border-bottom:10px solid #6f6f6f;*/
     /*border-right:10px solid #6f6f6f;*/
-    box-shadow: -10px 10px 0px #ddd;
+    box-shadow: 10px 10px 0px #ddd;
 }
 
 .intro {
@@ -131,6 +163,12 @@ h1, h2, h3 {
     border-top:0px solid #000;
     padding-top:10px;
     margin-top:40px;
+}
+
+.bibliotheque h3 {
+    font-size: 1.4em;
+    margin-top:-10px;
+    margin-bottom:20px;
 }
 
 .bibliotheque hr {

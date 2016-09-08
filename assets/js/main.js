@@ -7,6 +7,9 @@ $(function() {
             linkElt.replaceWith(linkElt.text());
         }
     });
+    $('.container a').each(function(){
+        if(!$(this).attr("href").startsWith(siteURL)) {$(this).attr('target', '_blank');}
+    });
 });
 
 ////////////////////////////////////////////////////////////////////////
