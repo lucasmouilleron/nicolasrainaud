@@ -9,6 +9,7 @@ $(function() {
     });
     $('.container a').each(function(){
         if(!$(this).attr("href").startsWith(siteURL)) {$(this).attr('target', '_blank');}
+        if($(this).attr("href").includes("__files")) {$(this).attr('target', '_blank');}
     });
 });
 

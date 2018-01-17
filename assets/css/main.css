@@ -15,6 +15,7 @@ html,body {
     font-family: 'Lora', serif;
     height:100%;
     color:#6f6f6f;
+    /*color:#666;*/
 }
 
 .container {
@@ -22,8 +23,9 @@ html,body {
 }
 
 a, a:hover {
-    /*color:#c07b02;*/
-    color:blue;
+    color:#c07b02;
+    /*color:blue;*/
+    /*color:black;*/
 }
 
 /*///////////////////////////////////////////////////////////////////////*/

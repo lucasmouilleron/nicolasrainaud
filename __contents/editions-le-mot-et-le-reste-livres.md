@@ -8,7 +8,7 @@ Cette somme propose un éclairage inédit sur l’intégralité de ces titres, d
 
 L’ouvrage s’adresse à tous ceux qui, en découvrant son univers, souhaitent bénéficier d’un guide pour entrer de plain-pied dans la richesse d’une écriture musicale et poétique, sans oublier les amateurs confirmés.
 
-[Acheter](https://www.amazon.fr/Not-dark-yet-chansons-dylan/dp/236054148X/ref=sr_1_1?ie=UTF8&qid=1423670978&sr=8-1&keywords=not+dark+yet)
+[Acheter](https://www.amazon.fr/Not-Dark-Yet-Chansons-Dylan/dp/236054148X/ref=la_B004N6YMLA_1_2?s=books&ie=UTF8&qid=1474194823&sr=1-2)
 
 ---
 
@@ -25,6 +25,6 @@ L’ouvrage déroule la logique d’une carrière atemporelle et imparable, tant
 
 Vingt ans plus tard, un Bob Dylan à l’esprit alerte et aux capacités musicales transcendées tourne toujours.
 
-[Acheter](https://www.amazon.fr/Figures-Bob-Dylan-Nicolas-Rainaud/dp/2915378843/ref=sr_1_1?ie=UTF8&s=books&qid=1240567130&sr=8-1)
+[Acheter](https://www.amazon.fr/Figures-Bob-Dylan-Nicolas-Rainaud/dp/2915378843/ref=la_B004N6YMLA_1_1?s=books&ie=UTF8&qid=1474194823&sr=1-1)
 
 ---

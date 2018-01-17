@@ -6,7 +6,7 @@ Juin 1944. Le combat fait rage. Alors que la petite ville normande semble anéan
 
 Des dizaines d’années plus tard, Julien entreprend de relater « les dix morts de Jack W. ». Si l’ombre de Jack a mis une vie entière à grandir, son secret ne peut-il être dévoilé en une fraction de seconde ? 
 
-[Acheter](http://google.com)
+[Acheter](https://www.amazon.fr/Lhomme-arr%C3%AAtait-temps-Nicolas-Rainaud/dp/1535493704/ref=la_B004N6YMLA_1_3_twi_pap_2?s=books&ie=UTF8&qid=1474194823&sr=1-3)
 
 ---
 
@@ -17,8 +17,7 @@ Juste avant de chanter son refrain, le narrateur s’effondre au beau milieu de 
 
 Revenu à lui, il comprend que l’heure de remplir sa mission a sonné. Alors ce soldat inconnu de la musique s’échappe de l’hôpital pour errer dans les rues de Paris à la recherche de l’inspiration nocturne. Tiraillé entre l’urgence d’écrire et l’immobilité requise par la mort, viendra-t-il à bout de la chanson ultime ? 
 
-[Acheter](https://www.amazon.fr/mort-Bob-Dylan-Nicolas-Rainaud/dp/1535145633/ref=sr_1_5?ie=UTF8&qid=1472721446&sr=8-5&keywords=bob+dylan+livre 
-)
+[Acheter](https://www.amazon.fr/mort-Bob-Dylan-Nicolas-Rainaud/dp/1535145633/ref=la_B004N6YMLA_1_5_twi_pap_2?s=books&ie=UTF8&qid=1474194823&sr=1-5)
 
 ---
 
@@ -29,7 +28,7 @@ Seul le temps qui passe donne une cohérence à la série de sensations isolées
 
 Lecteurs et lectrices devront tout autant s’impliquer pour parvenir à relier les perceptions qui se saisissent d’un être à travers la musique, la littérature et l’amour, « comme de longs échos qui de loin se confondent dans une ténébreuse et profonde unité ». 
 
-[Acheter](http://google.com)
+[Acheter](https://www.amazon.fr/Ailleurs-cest-lhiver-Nicolas-Rainaud/dp/1535494166/ref=la_B004N6YMLA_1_4_twi_pap_2?s=books&ie=UTF8&qid=1474194823&sr=1-4)
 
 ---
 
