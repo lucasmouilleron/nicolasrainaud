@@ -1,4 +1,14 @@
 ***
+
+##La fille de Rimbaud
+###2019
+![La fille de Rimbaud]({{FILE:la-fille-de-rimbaud.jpg}})
+Lucille a failli rater le train qui l’emmène tuer son père. Rythmé par des souvenirs d’écrits en tous genres, le voyage lui ferait presque oublier son projet du moment : à trente ans, Lucille songe déjà à vendre son cabinet médical pour se consacrer à l’Art. Mais plus elle s’approche de la maison de son père sur le Bassin d’Arcachon, plus le manuscrit inédit de Rimbaud que sa famille se transmet de génération en génération l’obsède. Il faudra bien qu’elle vive, enfin.
+
+[Acheter](https://www.amazon.fr/gp/product/179787344X/ref=dbs_a_def_rwt_hsch_vapi_tu00_p1_i4)
+
+---
+
 ##L’homme qui arrêtait le temps
 ###2016
 ![L’homme qui arrêtait le temps]({{FILE:l-homme-qui-arretait-le-temps.jpg}})
@@ -29,14 +39,5 @@ Seul le temps qui passe donne une cohérence à la série de sensations isolées
 Lecteurs et lectrices devront tout autant s’impliquer pour parvenir à relier les perceptions qui se saisissent d’un être à travers la musique, la littérature et l’amour, « comme de longs échos qui de loin se confondent dans une ténébreuse et profonde unité ». 
 
 [Acheter](https://www.amazon.fr/Ailleurs-cest-lhiver-Nicolas-Rainaud/dp/1535494166/ref=la_B004N6YMLA_1_4_twi_pap_2?s=books&ie=UTF8&qid=1474194823&sr=1-4)
-
----
-
-##La fille de Rimbaud
-###(A paraître)
-![La fille de Rimbaud]({{FILE:la-fille-de-rimbaud.jpg}})
-Lucille a failli rater le train qui l’emmène tuer son père. A trente ans, elle songe déjà à abandonner son cabinet médical pour assouvir ses pulsions artistiques, et ainsi suivre la voie de son père écrivain et de son grand-père cinéaste et amoureux de peinture. Tout au long de son voyage, rythmé par le souvenir d’écrits en tous genres, elle est tiraillée entre la liberté de la poésie et la profondeur du roman, entre le désir de suivre ses modèles et la nécessité de tracer sa propre voie. Plus elle se rapproche de sa destination finale, la maison de son père sur le Bassin d’Arcachon, plus le manuscrit inédit de Rimbaud que sa famille se transmet de génération en génération l’obsède. 
-
-Pour vivre enfin, Lucille ne devra-t-elle pas, avant tout, se décharger de ce secret à la fois merveilleux et pesant ?
 
 ---
